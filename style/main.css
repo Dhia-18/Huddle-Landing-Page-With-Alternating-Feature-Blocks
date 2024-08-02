@@ -263,7 +263,7 @@ footer{
     background-color: white;
     border-radius: 10px;
     box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.1);
-    
+
     position: absolute;
     top: 9rem;
 }
@@ -297,6 +297,12 @@ footer{
         margin-top: 4rem;
     }
 
+    .build-community{
+        left:20%;
+    }
+}
+
+@media (min-width:90em){
     .build-community{
         left:28%;
     }
